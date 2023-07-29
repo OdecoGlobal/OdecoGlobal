@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Okechukwu Chidera
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML CSS and JavaScript
+- 👀 I’m a Front-end developer 
+- 🌱 I’m currently skilled in programming  HTML CSS Javascript and React.
 - 💞️ I’m looking to collaborate on small projects that involves front-end development
 - 📫 How to reach me is via twitter. user name @M_Derah
 
