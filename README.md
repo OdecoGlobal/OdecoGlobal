@@ -1,7 +1,7 @@
 
 ## 👋 Hi there, I'm Okechukwu Chidera
 
-I'm a **Front-end Developer** who enjoys building o[timized, interactive, and responsive web applications.
+I'm a **Front-end Developer** who enjoys building optimized, interactive, and responsive web applications.
 
 ## 🌟 About Me
 - 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **MongoDB**, **Tailwind CSS**, and **Next.js**.
