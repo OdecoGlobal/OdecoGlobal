@@ -7,6 +7,8 @@
 ![OdecoGlobal GitHub Stats](https://github-readme-stats.vercel.app/api?username=OdecoGlobal&show_icons=true&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdecoGlobal&show_icons=true&theme=radical)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+
 <!---
 OdecoGlobal/OdecoGlobal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
