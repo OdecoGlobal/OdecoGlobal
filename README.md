@@ -1,12 +1,12 @@
 
 ## 👋 Hi there, I'm Okechukwu Chidera
 
-I'm a **Front-end Developer** who enjoys building sleek, interactive, and responsive web applications.
+I'm a **Front-end Developer** who enjoys building o[timized, interactive, and responsive web applications.
 
 ## 🌟 About Me
 - 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **MongoDB**, **Tailwind CSS**, and **Next.js**.
 - 💞️ Open to collaborating on **front-end projects** or full-stack apps with modern tech stacks.
-- 📫 Reach me on X: [@M_Derah](https://x.com/M_Derah) | [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Portfolio](https://your-portfolio.com)
+- 📫 Reach me on X: [@M_Derah](https://x.com/M_Derah) | [LinkedIn](https://www.linkedin.com/in/okechukwu-chidera) | [Portfolio](https://odeco.vercel.app/)
 
   ## 📊 GitHub Stats
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
