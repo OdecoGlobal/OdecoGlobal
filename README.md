@@ -5,6 +5,7 @@ I'm a **Front-end Developer** who enjoys building optimized, interactive, and re
 
 ## 🌟 About Me
 - 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **MongoDB**, **Tailwind CSS**, and **Next.js**.
+- 🌱 Currently expanding my skills in **AI/ML**, **React Native**, and **PostgreSql**
 - 💞️ Open to collaborating on **front-end projects** or full-stack apps with modern tech stacks.
 - 📫 Reach me on X: [@M_Derah](https://x.com/M_Derah) | [LinkedIn](https://www.linkedin.com/in/okechukwu-chidera) | [Portfolio](https://odeco.vercel.app/)
 
@@ -48,7 +49,6 @@ When I'm not coding, you can find me exploring new tech trends or binge-watching
 <!---
 - 🚀 Currently exploring advanced React patterns and full-stack development with Next.js.
 - 💻 I work with **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, and **MongoDB**
-- 🌱 Currently expanding my skills in **AI/ML**, **React Native**, and **PostgreSql**
 - 🤝 Open to collaborating on frontend projects and building cool UIs
 - 📬 Reach out on [Twitter](https://twitter.com/M_Derah) — @M_Derah
 
